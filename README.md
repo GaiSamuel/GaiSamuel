@@ -8,18 +8,18 @@ I'm passionate about *Cyber Security, Web Development* and *Architecture*.
 Whenever I'm free, I like to jog to keep up with my fitness and I also play games.
 I also **love** connecting with like-minded individuals to explore ideas in tech.
 
-## Education
+## Education :books:
 
 I'm currently enrolled in the **MIT Emerging Talent Foundation Track**.
 I am currently working hard to make sure i make it to the **Certificate program**.
 
-## Contact
+## Contact :phone:
 
 Email: <gaisamuel34@gmail.com>
 Contact: +256784908547
 
 ---
 
-## Let's connect
+## Let's connect :open_hands:
 
 *Feel free to reach out on both my email and contact.*
