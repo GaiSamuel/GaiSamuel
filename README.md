@@ -1,25 +1,41 @@
-# Hello :wave:, My name is Gai Samuel
+# 👋 Hello there
 
-I finished high school last year at **Elite High School, Juba**.
-I'm passionate about *Cyber Security, Web Development* and *Architecture*.
+I'm **Gai Samuel**, *a tech enthusiast and a passionate learner interested in*
+**Computer Science**. *I thrive on solving complex problems and exploring
+innovative solutions to make technology
+more secure and accessible.*
 
-## About me
+**"Always ready to learn something new!"**  
 
-Whenever I'm free, I like to jog to keep up with my fitness and I also play games.
-I also **love** connecting with like-minded individuals to explore ideas in tech.
+## About Me ✨
 
-## Education :books:
+*When I'm not coding, you can find me jogging to keep up with my fitness,
+playing immersive video games, or connecting with like-minded individuals to
+exchange ideas in tech.*
 
-I'm currently enrolled in the **MIT Emerging Talent Foundation Track**.
-I am currently working hard to make sure i make it to the **Certificate program**.
+### My Vision 🎯
 
-## Contact :phone:
+*I aspire to solve real-world problems through technology, make an impact in*
+**Cyber Security**, *and contribute to a more secure and innovative digital
+world while continuously learning, growing, and contributing to the community.*
+
+### What I'm Working On 🔭
+
+- *Completing the* **MIT Emerging Talent Foundation Track**.  
+- *Exploring* **Full-Stack Development** *and improving my* **python skills**.  
+
+## Contact ☎️
 
 Email: <gaisamuel34@gmail.com>
 Contact: +256784908547
 
+### GitHub Stats 📊
+
+![Gai Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiSamuel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+
+> **""We move forward by focusing on the path ahead, not the one behind us."**
 ---
 
-## Let's connect :open_hands:
+## Let's connect 👐
 
 *Feel free to reach out on both my email and contact.*
