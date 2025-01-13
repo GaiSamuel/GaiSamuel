@@ -1,4 +1,4 @@
-# 👋 Hello there
+# ![Hello there gif](https://github.com/GaiSamuel/GaiSamuel/blob/main/Hello%20there%20gif.gif?raw=true)
 
 I'm **Gai Samuel**, *a tech enthusiast and a passionate learner interested in*
 **Computer Science**. *I thrive on solving complex problems and exploring
