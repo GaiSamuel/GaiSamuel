@@ -1,41 +1,40 @@
-# ![Hello there gif](https://github.com/GaiSamuel/GaiSamuel/blob/main/Hello%20there%20gif.gif?raw=true)
+# **Gai Samuel**
 
-I'm **Gai Samuel**, *a tech enthusiast and a passionate learner interested in*
-**Computer Science**. *I thrive on solving complex problems and exploring
-innovative solutions to make technology
-more secure and accessible.*
+**`Data Science Enthusiast | Lifelong Learner | Full-Stack Developer in Training.`**
 
 **"Always ready to learn something new!"**  
 
 ## About Me ✨
 
-*When I'm not coding, you can find me jogging to keep up with my fitness,
-playing immersive video games, or connecting with like-minded individuals to
-exchange ideas in tech.*
+*Tech enthusiast passionate about **Data Science** and **Full-Stack
+ Development**. I thrive on solving real-world problems through code,
+  collaborative learning, and community contributions.*
 
-### My Vision 🎯
+**Beyond Coding:**
+🏞️ Nature lover | 🎨 Art admirer | 🏃‍♂️ Fitness junkie | 🎮 Gaming explorer
 
-*I aspire to solve real-world problems through technology, make an impact in*
-**Cyber Security**, *and contribute to a more secure and innovative digital
-world while continuously learning, growing, and contributing to the community.*
+### Vision 🎯
 
-### What I'm Working On 🔭
+To leverage technology—especially Data Science—for impactful solutions while
+ fostering a culture of innovation, security, and continuous growth.
 
-- *Completing the* **MIT Emerging Talent Foundation Track**.  
-- *Exploring* **Full-Stack Development** *and improving my* **python skills**.  
+### Current Focus 🚀
 
-## Contact ☎️
+- Completing the **MIT Emerging Talent Certificate Program.**
 
-Email: <gaisamuel34@gmail.com>
-Contact: +256784908547
+- Python for **Data Science** and diving into **Full-Stack Development.**
+
+- Building projects that blend analytics with actionable insights.
 
 ### GitHub Stats 📊
 
-![Gai Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiSamuel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Gai Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiSamuel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-> **""We move forward by focusing on the path ahead, not the one behind us."**
+### Let’s Connect 📫
+
+📧 Email: <gaisamuel34@gmail.com>
+📞 Phone: +256 784 908 547
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-gai-453806313/)
+
+> **"We move forward by focusing on the path ahead, not the one behind us."**
 ---
-
-## Let's connect 👐
-
-*Feel free to reach out on both my email and contact.*
