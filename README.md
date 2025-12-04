@@ -1,6 +1,6 @@
 # **Gai Samuel**
 
-**`Data Science Enthusiast | Lifelong Learner | Full-Stack Developer in Training.`**
+**`Data Science Student | Lifelong Learner | Full-Stack Enthusiast`**
 
 **"Always ready to learn something new!"**  
 
@@ -26,15 +26,10 @@ To leverage technology—especially Data Science—for impactful solutions while
 
 - Building projects that blend analytics with actionable insights.
 
-### GitHub Stats 📊
-
-![Gai Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiSamuel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ### Let’s Connect 📫
 
 📧 Email: <gaisamuel34@gmail.com>
-📞 Phone: +256 784 908 547
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-gai-453806313/)
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-gai/)
 
 > **"We move forward by focusing on the path ahead, not the one behind us."**
 ---
